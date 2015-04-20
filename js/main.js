@@ -1,6 +1,2 @@
-// var player = new Player();
-
-// player.init({
-// 	'el':'player',
-// 	'source':'data/video.mp4'
-// });
+var player = new Player();
+player.init('data/video.mp4');
